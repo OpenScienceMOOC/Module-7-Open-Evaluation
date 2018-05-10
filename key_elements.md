@@ -177,15 +177,3 @@
 * Find out what your research department or institutes research evaluation criteria are. Have a discussion about them with your research colleagues.
 
     * Find out who wrote them, and ask them what evidence they used to support the criteria.
-
-### Learning outcomes:
-
-1. The researcher will be able to describe the history of peer review in the context of scholarly publishing, the criticisms levied against ‘traditional’ peer review, and the ongoing developments with Open Peer Review.
-
-2. The researcher will be able to use a range of post-publication review, commenting, and annotation services. 
-
-3. The researcher will be able to describe the issues associated with the use of ‘traditional’ metrics in research evaluation, and the role that peer evaluation and ‘next-generation’ metrics (or ‘altmetrics’) play in this.
-
-4. The researcher will be able to use a range of services to build and demonstrate their personal research impact profile, both quantitatively and qualitatively.
-
-5. The researcher will become familiar with the relevant criteria for research evaluation to them, and be able to have a critical discussion about them with their colleagues and those who drafted them.
