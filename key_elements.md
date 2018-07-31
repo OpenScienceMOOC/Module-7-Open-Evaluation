@@ -48,6 +48,8 @@
 
 * [Open Badges](https://openbadges.org/).
 
+* [Open Review Toolkit](https://www.bitbybitbook.com/en/open-review/).
+
 **Research Articles and Reports**
 
 * [Why the impact factor of journals should not be used for evaluating research](http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC2126010&blobtype=pdf) (Seglen, 1997).
@@ -104,9 +106,15 @@
 
 * [Making research evaluation more transparent: Aligning research philosophy, institutional values, and reporting](https://psyarxiv.com/48qux/) (Dougherty et al., 2018).
 
-* [Research excellence indicators: time to reimagine the ‘making of’?](https://academic.oup.com/spp/advance-article/doi/10.1093/scipol/scy007/4858431) (Ferretti et al., 2018).
+* [Research excellence indicators: time to reimagine the 'making of'?](https://academic.oup.com/spp/advance-article/doi/10.1093/scipol/scy007/4858431) (Ferretti et al., 2018).
 
 * [The Journal Impact Factor: A brief history, critique, and discussion of adverse effects](https://arxiv.org/abs/1801.08992) (Lariviere and Sugimoto, 2018).
+
+* [Scholarly Communication Librarians' Relationship with Research Impact Indicators: An Analysis of a National Survey of Academic Librarians in the United States](https://jlsc-pub.org/articles/abstract/10.7710/2162-3309.2212/) (Miles et al., 2018).
+
+* [Assessing scientists for hiring, promotion, and tenure](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2004089) (Moher et al., 2018).
+
+* [Ten considerations for open peer review](https://f1000research.com/articles/7-969/v1) (Schmidt et al., 2018).
 
 **Key posts**
 
@@ -114,21 +122,23 @@
 
 * [Peer reviews are open for registering at Crossref](https://www.crossref.org/blog/peer-reviews-are-open-for-registering-at-crossref/), Jennifer Lin.
 
-* [Why we don’t sign our peer reviews](http://www.molecularecologist.com/2014/04/why-we-dont-sign/), Jeremy Yoder.
+* [Why we don't sign our peer reviews](http://www.molecularecologist.com/2014/04/why-we-dont-sign/), Jeremy Yoder.
 
 * [The Fractured Logic of Blinded Peer Review in Journals](http://blogs.plos.org/absolutely-maybe/2017/10/31/the-fractured-logic-of-blinded-peer-review-in-journals/), Hilda Bastian.
 
 * [The peer review process: challenges and progress](https://www.editage.com/insights/the-peer-review-process-challenges-and-progress), Irene Hames.
 
-* [Responsible metrics: Where it’s at?](https://thebibliomagician.wordpress.com/2018/02/16/responsible-metrics-where-its-at/), Lizzie Gadd.
+* [Responsible metrics: Where it's at?](https://thebibliomagician.wordpress.com/2018/02/16/responsible-metrics-where-its-at/), Lizzie Gadd.
 
-* [Goodhart’s Law and why measurement is hard](https://www.ribbonfarm.com/2016/06/09/goodharts-law-and-why-measurement-is-hard/), David Manheim.
+* [Goodhart's Law and why measurement is hard](https://www.ribbonfarm.com/2016/06/09/goodharts-law-and-why-measurement-is-hard/), David Manheim.
 
-* [Academe’s prestige problem: We’re all complicit in perpetuating a rigged system](https://www.chronicle.com/article/Academe-s-Prestige-Problem/241432), Maximillian Alvarez.
+* [Academe's prestige problem: We're all complicit in perpetuating a rigged system](https://www.chronicle.com/article/Academe-s-Prestige-Problem/241432), Maximillian Alvarez.
 
-* [Let’s move beyond the rhetoric: it’s time to change how we judge research](https://www.nature.com/articles/d41586-018-01642-w), Stephen Curry.
+* [Let's move beyond the rhetoric: it's time to change how we judge research](https://www.nature.com/articles/d41586-018-01642-w), Stephen Curry.
 
 * [Blockchain offers a true route to a scholarly commons](https://www.researchresearch.com/news/article/?articleId=1373351), Lambert Heller.
+
+* [There is an absence of scientific authority over research assessment as a professional practice, leaving a gap that has been filled by database providers](http://blogs.lse.ac.uk/impactofsocialsciences/2018/07/25/there-is-an-absence-of-scientific-authority-over-research-assessment-as-a-professional-practice-leaving-a-gap-that-has-been-filled-by-database-providers/), Arlette Jappe, David Pithan and Thomas Heinze, LSE Impact Blog.
 
 **Other**
 
