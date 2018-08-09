@@ -50,6 +50,8 @@
 
 * [Open Review Toolkit](https://www.bitbybitbook.com/en/open-review/).
 
+* Hypothes.is
+
 **Research Articles and Reports**
 
 * [Why the impact factor of journals should not be used for evaluating research](http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC2126010&blobtype=pdf) (Seglen, 1997).
