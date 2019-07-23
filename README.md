@@ -1,4 +1,4 @@
-# Module 7: Open Peer Review
+# Module 7: Open Evaluation
 
 ## Rationale <a name="Rationale"></a>
 
